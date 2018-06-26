@@ -1,0 +1,6 @@
+## nschmitz python test
+
+print 'Please enter name"
+a = input()
+
+print 'Hello ' + a
